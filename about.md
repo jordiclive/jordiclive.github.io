@@ -7,7 +7,7 @@ published: true
 # About 
 
 
-<img src="{{site.baseurl}}/0.jpg" width="200"/>
+<img src="0.jpg" width="200"/>
 
 - - -
 
