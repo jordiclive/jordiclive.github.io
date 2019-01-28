@@ -1,0 +1,27 @@
+---
+title: Jordi Clive
+avatar: https://vignette.wikia.nocookie.net/avatar/images/8/82/Airbending_emblem.png/revision/latest?cb=20130729210446
+timezone: GMT
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+enforce_ssl: https://jordiclive.github.io
+highlighter: rouge
+livereload: true
+lsi: false
+markdown: kramdown
+port: 3000
+url: https://jordiclive.github.io
+owner:
+  name: Jordi Clive
+  email: jordiclive@protonmail.com

@@ -1,0 +1,28 @@
+---
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Jordi Clive</title>
+ <link href="https://jordiclive.github.io" rel="self"/>
+ <link href="https://jordiclive.github.io/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>https://jordiclive.github.io</id>
+ <author>
+   <name>Jordi Clive</name>
+   <email>https://jordiclive.github.io</email>
+ </author>
+ {% for post in site.posts limit:10 %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="https://jordiclive.github.io{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>https://jordiclive.github.io{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+   <author>
+     <name>Jordi Clive</name>
+     <uri>https://jordiclive.github.io</uri>
+   </author>
+ </entry>
+ {% endfor %}
+</feed>
