@@ -6,8 +6,8 @@ published: true
 
 # About 
 
-![0.jpg]({{site.baseurl}}/0.jpg =100x20)
 
+<img src="{{site.baseurl}}/0.jpg" width="200"/>
 
 - - -
 
