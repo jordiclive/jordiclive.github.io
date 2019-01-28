@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Quotes
 layout: default
 published: true
 ---
