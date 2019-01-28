@@ -6,7 +6,7 @@ published: true
 
 # About 
 
-![](![0.jpg]({{site.baseurl}}/0.jpg =100x20)
+![0.jpg]({{site.baseurl}}/0.jpg =100x20)
 
 
 - - -
