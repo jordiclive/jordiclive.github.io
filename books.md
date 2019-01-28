@@ -1,5 +1,5 @@
 ---
-title: Books.md
+title: Books
 layout: default
 published: true
 ---
