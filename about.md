@@ -6,7 +6,8 @@ published: true
 
 # About 
 
-![Me](http://i.imgur.com/v8IVDka.jpg)
+![](![0.jpg]({{site.baseurl}}/0.jpg =100x20)
+
 
 - - -
 
