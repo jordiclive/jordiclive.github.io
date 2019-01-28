@@ -5,7 +5,7 @@ published: true
 ---
 
 # About 
-
+![Me](http://i.imgur.com/v8IVDka.jpg)
 
 - - -
 
