@@ -16,7 +16,7 @@ I have nearly finished my **data science with machine learning** course and I am
 
 I'm **Jordi**, formally Jordan. 
 
-I have set up this blog primarily to showcase my intent on studying machine learning (ML)—I have applied to Master’s programs in the subject and wish to write up my first projects and thoughts. 
+I have set up this blog primarily to showcase my intent on studying machine learning (ML)—I have applied to Master’s programs in the subject and wish to write up my first projects and corresponding thoughts. 
 
 I became enamoured when studying Data Science for 12 weeks.
 
