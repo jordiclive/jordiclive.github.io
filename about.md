@@ -11,7 +11,8 @@ I have nearly finished my **data science with machine learning** course and I am
 
 # About 
 
-<img src="{{site.baseurl}}/0.jpg" alt="me" width="300" style="float: left;"/> 
+<img src="{{site.baseurl}}/0.jpg" alt="me" width="300" style="float: right;margin:0 10px 10px 0"/> 
+
 
 I'm **Jordi**, formally Jordan. 
 
