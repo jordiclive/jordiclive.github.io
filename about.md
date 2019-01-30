@@ -17,9 +17,7 @@ I believe this would be a good step for my development, preparing me for study a
 
 # About 
 
-<img src="{{site.baseurl}}/0.jpg" alt="me" width="200"/>
-
-I'm **Jordi**, formally Jordan. 
+<img src="{{site.baseurl}}/0.jpg" alt="me" width="200"/> I'm **Jordi**, formally Jordan. 
 
 I have set up this blog primarily to showcase my intent on studying machine learning (ML)—I have applied to Master’s programs in the subject and wish to write up my first projects and thoughts. 
 
