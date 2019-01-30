@@ -31,7 +31,7 @@ My (pseudo)intellectual interests are: learning, teaching, ageism, meta-awarenes
 
 Things I enjoy are mountaineering, tennis, trail-running and ski-touring.
 
-With regards to the platform, it is free! Whilst being free from advertising.
+With regards to the platform, it is free! Whilst being free from advertising. You can get started quickly [here](https://github.com/barryclark/jekyll-now)
 
 - - -
 
