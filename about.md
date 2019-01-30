@@ -17,13 +17,15 @@ I believe this would be a good step for my development, preparing me for study a
 
 # About 
 
-<img src="{{site.baseurl}}/0.jpg" alt="me" width="200"/> I'm **Jordi**, formally Jordan. 
+<img tyle="float: left;"src="{{site.baseurl}}/0.jpg" alt="me" width="200"/> 
+
+I'm **Jordi**, formally Jordan. 
 
 I have set up this blog primarily to showcase my intent on studying machine learning (ML)—I have applied to Master’s programs in the subject and wish to write up my first projects and thoughts. 
 
 I became enamoured when studying Data Science for 12 weeks.
 
-Secondarily I have always wished to blog: I used to journal anyway, and I was always inspired by one [idealist’s blog](https://www.thrivenotes.com/) who shared my interests and naivety. I stumbled upon their thoughts in 2011, quite serendipitously, or so I thought, rather owing to some obscure search matches. They were unconscious of my interest until I made contact many years later. The point is that that promise; that somebody, somewhere, may derive some meaning, makes the action of marshalling ones thoughts (which is good for you anyway!) that much better. Obviously it is nearly 100% self-serving and it is well noted that many people have blogs and many people are not interesting.
+Secondarily I have always wished to blog: I used to journal anyway, inspired by one [idealist’s blog](https://www.thrivenotes.com/) who shared my interests and naivety. I stumbled upon their thoughts in 2011, quite serendipitously, or so I thought, rather it was owing to some obscure search matches. They were unconscious of my interest until I made contact many years later. The point is that that promise; that somebody, somewhere, may derive some meaning, makes the action of marshalling ones thoughts (which is good for you anyway!) that much better. Obviously it is nearly 100% self-serving and it is well noted that many people have blogs and many people are not interesting.
 
 My (pseudo)intellectual interests are: learning, teaching, ageism, meta-awareness, intelligence, neurotechnology, gerontology, scientist biographies, transhumanism and investments. 
 
