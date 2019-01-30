@@ -14,7 +14,7 @@ I have nearly finished my **data science with machine learning** course and I am
 <img src="{{site.baseurl}}/0.jpg" alt="me" width="300" style="float: right;margin:0 10px 10px 0"/> 
 
 
-I'm **Jordi**, formally Jordan. 
+I'm **Jordi**, and in a formal setting Jordan. 
 
 I have set up this blog primarily to showcase my intent on studying machine learning (ML)—I have applied to Master’s programs in the subject and wish to write up my first projects and corresponding thoughts. 
 
