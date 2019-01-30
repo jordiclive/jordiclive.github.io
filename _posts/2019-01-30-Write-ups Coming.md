@@ -1,7 +1,5 @@
 ---
 published: true
----
----
 title: Write-ups Coming
 date: 2019-01-30 00:00:00 Z
 layout: post
