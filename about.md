@@ -22,7 +22,7 @@ Secondarily I used to journal, inspired by one [idealist’s blog](https://www.t
 
 Things I **enjoy** are: mountaineering, tennis, [trail running](https://en.wikipedia.org/wiki/Trail_running), ski-touring and reading. I'm **interested** in the lives of scientists, the science of learning,  [neurotechnology](https://en.wikipedia.org/wiki/Neurotechnology), and general futurist speculating.
 
-With regards to the platform, hosting is free! Whilst being free from advertising. You can get started quickly [here](https://github.com/barryclark/jekyll-now).
+With regards to the platform, it is free! Whilst being free from advertising. You can get started quickly [here](https://github.com/barryclark/jekyll-now).
 
 - - -
 
