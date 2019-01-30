@@ -17,7 +17,7 @@ I believe this would be a good step for my development, preparing me for study a
 
 # About 
 
-<img style="float: left;"src="{{site.baseurl}}/0.jpg" alt="me" width="200"/> 
+<img style="float: left;"src="{{site.baseurl}}/0.jpg" alt="me" width="300"/> 
 
 I'm **Jordi**, formally Jordan. 
 
