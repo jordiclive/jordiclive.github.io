@@ -18,7 +18,7 @@ I'm **Jordi**, and in a formal setting Jordan.
 
 I have set up this blog primarily to showcase my intent to study machine learning (ML).
 
-Secondarily I used to journal anyway, inspired by one [idealist’s blog](https://www.thrivenotes.com/) who shared my interests and naivety. I stumbled upon their thoughts in 2011, quite serendipitously, or so I thought, rather it was owing to some obscure search matches. They were unconscious of my interest until I made contact many years later. The point is that that promise; that somebody, somewhere, may derive some meaning, makes the action of marshalling one's thoughts (which is good for you anyway!) that much better. So never the matter that *many people have blogs and many people have nothing interesting to say* :/.
+Secondarily I used to journal, inspired by one [idealist’s blog](https://www.thrivenotes.com/) who shared my interests and naivety. In 2011, I quite serendipitously stumbled across their thoughts, well rather owing to my search terms consisting nootropics and noosphere. They were unconscious of my interest until I made contact many years later. The point is that that promise; that somebody, somewhere, may derive some meaning, makes the action of marshalling one's thoughts (which is good for you anyway!) that much better. So never the matter that *many people have blogs and many people have nothing interesting to say* :/.
 
 Things I **enjoy** are: mountaineering, tennis, [trail running](https://en.wikipedia.org/wiki/Trail_running), ski-touring and reading. I'm **interested** in the lives of scientists, the science of learning,  [neurotechnology](https://en.wikipedia.org/wiki/Neurotechnology), and general futurist speculating.
 
