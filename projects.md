@@ -52,7 +52,8 @@ Web app development
 _[Multiple Linear Regression on Ames housing data](https://github.com/jordiclive/MLR/blob/master/MLR.ipynb)_ – *November, 2018*
 : An exercise in predicting the sale price of residential properties based on their ‘fixed characteristics’ using *multiple linear Regression* with regularization. Then a secondary model is built with the unfixed features, in order to attempt to account for the reducible error of the first. This would be of interest to property developers.
 
-<img src="{{site.baseurl}}/Screen Shot 2019-01-31 at 12.38.57.png)" alt="regularization_path" width="1000"/> 
+<img src="{{site.baseurl}}/Screen Shot 2019-01-31 at 12.38.57.png" alt="regularization_path" width="400"/> 
+
   
 ```
 Feature Selection
@@ -71,9 +72,3 @@ Take-home exercise for Revolut: Data Science & Problem-solving  – *2018*
 
 _[*The Guardian* & *The Observer* crossword](https://github.com/jordiclive/The_Guardian_crossword)_ – *2016*
 : Simple code to redirect to the current crossword of the day. My father has a ritual of completing this particular crossword at lunch-time every day. This expedites that ritual, by saving one click, as well as avoiding the weekly confusion each Sunday when there is no Guardian quick crossword, but a Speedy Crossword in *The Observer*. Easy to run on Android, just *add-to-home-screen* this [link](https://jsfiddle.net/467Luazq/2).
-
-
-
-
-
-
