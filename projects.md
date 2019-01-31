@@ -54,7 +54,7 @@ _[Multiple Linear Regression on the Ames housing data](https://github.com/jordic
 ```
 — Feature Selection
 — Regularization paths
-— Residual Analysis and Variance
+— Residual Analysis 
 ```
 <br/>
 
