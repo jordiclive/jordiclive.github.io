@@ -27,11 +27,9 @@ _[My First Kaggle Competition: Elo Merchant Category Recommendation](https://www
 — Feature Elimination based on Boruta
 — Field-aware Factorization Machines
 — Post-processing & Model Stacking
-```
-
-
-
-
+```  
+  
+  
 Predicting Data Science salaries from the job Description, Flask web application – *December, 2018*
 : This is a web scraping and natural language processing project. Many Data Science job descriptions omit the salary, which to most definitely ranks as a top criteria!
 Are those on the job hunt supposed to be demure and welcome asymmetric information? Inferring the salary as best they can, go through the application process only to find out at the end. This is time-consuming and can be difficult if the specific role is niche or is a new field. A web application link will follow where HR and job searchers in Data Science can copy and paste the description. Perhaps some job description authors will use the model to deliberately bely true salaries down the line…
@@ -44,11 +42,9 @@ Are those on the job hunt supposed to be demure and welcome asymmetric informati
 — Basic NLP techniques — vectorizers
 — Model Tuning
 — Web app development 
-```
-
-
-
-
+```  
+  
+   
 _[Multiple Linear Regression on the Ames housing data](https://github.com/jordiclive/MLR/blob/master/MLR.ipynb)_ – *November, 2018*
 : An exercise in predicting the sale price of residential properties based on their ‘fixed characteristics’ using *multiple linear Regression* with regularization. Then a secondary model is built with the unfixed features, in order to attempt to account for the reducible error of the first. This would be of interest to property developers.
 
