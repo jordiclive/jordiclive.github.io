@@ -7,7 +7,7 @@ published: true
 
 Write-ups will appear.
 
-Additionally, I am hoping to be a teaching assistant for the same data science course I am currently finishing, starting in [March](https://generalassemb.ly/education/data-science-immersive). I would lead full days, lecturing ML topics followed by guiding labs (usually undertaken in Jupyter Notebooks), as well as provide assistance to students on a day-to-day basis. 
+Additionally, starting in [March](https://generalassemb.ly/education/data-science-immersive) I am hoping to be a teaching assistant for the same data science course I am currently finishing. I would lead full days, lecturing ML topics followed by guiding labs (usually undertaken in Jupyter Notebooks), as well as provide assistance to students on a day-to-day basis. 
 
 I believe this would be a good step for my development, preparing me for study and research in September 2019.
 
