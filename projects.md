@@ -32,7 +32,7 @@ _[My First Kaggle Competition: Elo Merchant Category Recommendation](https://www
   
 Predicting Data Science salaries from the job Description, Flask web application – *December, 2018*
 : This is a web scraping and natural language processing project. Many Data Science job descriptions omit the salary, which to most, definitely ranks as a top criterion!
-Are those on the job hunt supposed to be demure and welcome asymmetric information? Inferring the salary as best they can, and go through the whole application process, only to find out at the end. This is time-consuming, let alone difficult if the specific role is niche or is in a new field. A web application link will follow where HR and job searchers in Data Science can copy and paste the description. Perhaps some job description authors will use the model to deliberately bely true salaries down the line…
+Are those on the job hunt supposed to be demure and welcome asymmetric information? Inferring the salary as best they can, and go through the whole application process, only to find out at the end. This is time-consuming, let alone difficult if the specific role is niche or is in a new field. A web application link will follow where Data Science HR and job searchers alike can copy and paste the description. Perhaps some job description authors will use the model to deliberately bely true salaries down the line…
 
 
 ```
