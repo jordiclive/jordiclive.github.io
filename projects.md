@@ -65,12 +65,11 @@ Residual Analysis and Variance
 
 ## Small Projects
 
-_[Take-home exercise for Revolut: Data Science & Problem-solving]_ – *2018*
+Take-home exercise for Revolut: Data Science & Problem-solving  – *2018*
 : Mostly work with *pandas* to investigate changes in Revolut’s Know your customer (KYC) pass rates for new customers. In additon, a report interpreting the analysis.
 
 
-_[*The Guardian* & *The Observer* crossword
-](https://github.com/jordiclive/The_Guardian_crossword)_ – *2016*
+_[*The Guardian* & *The Observer* crossword](https://github.com/jordiclive/The_Guardian_crossword)_ – *2016*
 : Simple code to redirect to the current crossword of the day. My father has a ritual of completing this particular crossword at lunch-time every day. This expedites that ritual, by saving one click, as well as avoiding the weekly confusion each Sunday when there is no Guardian quick crossword, but a Speedy Crossword in *The Observer*. Easy to run on Android, just *add-to-home-screen* this [link](https://jsfiddle.net/467Luazq/2).
 
 
