@@ -23,7 +23,10 @@ _[My First Kaggle Competition: Elo Merchant Category Recommendation](https://www
 ```
 EDA/Data Treatment
 Feature Engineering (1000+ features contrived from 31e6 transactions)
-Erecting CV framework, Gradient boosting, SVM
-Field-aware Factorization Machines
-Post-processing & Stacking
+Creating a good CV framework. Gradient boosting. SVMs
+```
+| [Feature Elimination based on Boruta](https://www.kaggle.com/tilii7/boruta-feature-elimination)|
+| [Field-aware Factorization Machines](https://www.csie.ntu.edu.tw/~cjlin/libffm/) |
+```
+Post-processing & Model Stacking
 ```
