@@ -66,8 +66,8 @@ _[Multiple Linear Regression on Ames housing data](https://github.com/jordiclive
 
 ## Small Projects
 
-Take-home exercise for Revolut: Data Science & Problem-solving  – *2018*
-: Mostly work with *pandas* to investigate changes in Revolut’s Know your customer (KYC) pass rates for new customers. In additon, a report interpreting the analysis.
+Take-home exercise for *Revolut*: Data Science & Problem-solving  – *2018*
+: Mostly work with *pandas* to investigate changes in *Revolut’s* Know your customer (KYC) pass rates for new customers. In additon, a report interpreting the analysis.
 
 
 _[*The Guardian* & *The Observer* crossword](https://github.com/jordiclive/The_Guardian_crossword)_ – *2016*
