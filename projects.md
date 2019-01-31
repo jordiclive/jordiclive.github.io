@@ -18,7 +18,7 @@ _[First Kaggle Competition: Elo Merchant Category Recommendation](https://www.ka
 : I am currently 14th/3228 on the public LB of my first Kaggle competition—some ML techniques were required (I promise!).
 
 <a href="https://www.kaggle.com/c/elo-merchant-category-recommendation/leaderboard">
-  <img src="{{site.baseurl}}/Screen Shot 2019-01-31 at 10.59.30.png" alt="LB" width="300"/> 
+  <img src="{{site.baseurl}}/Screen Shot 2019-01-31 at 10.59.30.png" alt="LB" width="800"/> 
 </a>
 
 
