@@ -13,3 +13,12 @@ I believe this would be a good step for my development, preparing me for study a
 
 
 # Project List
+
+_[Elo Merchant](https://www.jacobinmag.com/2014/06/atlas-smug/)_ – June 2014
+: An edited version of my post _[Dear Marc Andreessen](/2014/06/17/dear-marc-andreessen.html)_ for [Jacobin](https://www.jacobinmag.com/).
+
+<a href="https://www.kaggle.com/c/elo-merchant-category-recommendation/leaderboard">
+  <img src="{{site.baseurl}}/Screen Shot 2019-01-31 at 10.59.30.png" alt="LB" width="300"/> 
+</a>
+
+
