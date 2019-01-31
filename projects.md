@@ -13,7 +13,7 @@ I believe this would be a good step for my development, preparing me for study a
 
 
 # Project List
-_[My First Kaggle Competition: Elo Merchant Category Recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation)_ – Ongoing, ends February 26th 
+_[My First Kaggle Competition: Elo Merchant Category Recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation)_ – *Ongoing, ends February 26th*
 : I am currently 14th/3228 on the public LB—some ML techniques were required (I promise!). $50,000 prize money will be afforded to the top 5 entrants on the Private Leaderboard. 
 
 <a href="https://www.kaggle.com/c/elo-merchant-category-recommendation/leaderboard">
@@ -22,7 +22,7 @@ _[My First Kaggle Competition: Elo Merchant Category Recommendation](https://www
 
 ```EDA/Data Treatment
 Feature Engineering (1000+ features contrived from 31e6 transactions)
-Creating a good CV framework. Gradient boosting. SVMs.```
+Creating a good CV framework. Gradient boosting. SVMs.
 Feature Elimination based on Boruta
 Field-aware Factorization Machines
 Post-processing & Model Stacking```
@@ -38,4 +38,8 @@ Creating a good CV framework. Gradient boosting. SVMs.```
 [```Field-aware Factorization Machines```](https://www.csie.ntu.edu.tw/~cjlin/libffm/) 
 ```Post-processing & Model Stacking```
 
-    [SO](http://s.tk/)
+    <code>[SO](http://s.tk/)</code>
+
+
+
+```<code>[SO](http://s.tk/)</code>```
