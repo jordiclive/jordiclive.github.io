@@ -28,7 +28,7 @@ _[My First Kaggle Competition: Elo Merchant Category Recommendation](https://www
 — Field-aware Factorization Machines
 — Post-processing & Model Stacking
 ```  
-  
+<br/>  
   
 Predicting Data Science salaries from the job Description, Flask web application – *December, 2018*
 : This is a web scraping and natural language processing project. Many Data Science job descriptions omit the salary, which to most, definitely ranks as a top criterion!
@@ -43,7 +43,7 @@ Are those on the job hunt supposed to be demure and welcome asymmetric informati
 — Model Tuning
 — Web app development 
 ```  
-  
+<br/>  
    
 _[Multiple Linear Regression on the Ames housing data](https://github.com/jordiclive/MLR/blob/master/MLR.ipynb)_ – *November, 2018*
 : An exercise in predicting the sale price of residential properties based on their ‘fixed characteristics’ using *multiple linear regression* with regularization. Then a secondary model is built with the unfixed features, in order to attempt to account for the reducible error of the first. This would be of interest to property developers.
@@ -56,7 +56,7 @@ _[Multiple Linear Regression on the Ames housing data](https://github.com/jordic
 — Regularization paths
 — Residual Analysis and Variance
 ```
-
+<br/>
 
 
 
