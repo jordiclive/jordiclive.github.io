@@ -29,11 +29,13 @@ Field-aware Factorization Machines
 Post-processing & Model Stacking
 ```
 
-<code>[SO](http://s.tk/)</code>
 
-_[Predicting Data Science salaries from the job Description, Flask web application]_ – *December, 2018*
+
+
+_Predicting Data Science salaries from the job Description, Flask web application – *December, 2018*
 : This is a web scraping and natural language processing project. Many Data Science job descriptions omit the salary, which to most definitely ranks as a top criteria!
 Are those on the job hunt supposed to be demure and welcome asymmetric information? Inferring the salary as best they can, go through the application process only to find out at the end. This is time-consuming and can be difficult if the specific role is niche or is a new field. A web application link will follow where HR and job searchers in Data Science can copy and paste the description. Perhaps some job description authors will use the model to deliberately bely true salaries down the line…
+
 
 ```
 Web scraping from Indeed, Glassdoor etc.
@@ -44,17 +46,34 @@ Model Tuning
 Web app development 
 ```
 
+
+
+
 _[Multiple Linear Regression on Ames housing data](https://github.com/jordiclive/MLR/blob/master/MLR.ipynb)_ – *November, 2018*
 : An exercise in predicting the sale price of residential properties based on their ‘fixed characteristics’ using *multiple linear Regression* with regularization. Then a secondary model is built with the unfixed features, in order to attempt to account for the reducible error of the first. This would be of interest to property developers.
 
-<a href="https://www.kaggle.com/c/elo-merchant-category-recommendation/leaderboard">
-  <img src="{{site.baseurl}}/Screen Shot 2019-01-31 at 12.38.57.png)" alt="regularization_path" width="1000"/> 
-</a>
+<img src="{{site.baseurl}}/Screen Shot 2019-01-31 at 12.38.57.png)" alt="regularization_path" width="1000"/> 
+  
 ```
 Feature Selection
 Regularization paths
 Residual Analysis and Variance
 ```
+
+
+
+
+## Small Projects
+
+_[Take-home exercise for Revolut: Data Science & Problem-solving]_ – *2018*
+: Mostly work with *pandas* to investigate changes in Revolut’s Know your customer (KYC) pass rates for new customers. In additon, a report interpreting the analysis.
+
+
+_[*The Guardian* & *The Observer* crossword
+](https://github.com/jordiclive/The_Guardian_crossword)_ – *2016*
+: Simple code to redirect to the current crossword of the day. My father has a ritual of completing this particular crossword at lunch-time every day. This expedites that ritual, by saving one click, as well as avoiding the weekly confusion each Sunday when there is no Guardian quick crossword, but a Speedy Crossword in *The Observer*. Easy to run on Android, just *add-to-home-screen* this [link](https://jsfiddle.net/467Luazq/2).
+
+
 
 
 
