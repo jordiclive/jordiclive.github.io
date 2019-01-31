@@ -21,12 +21,12 @@ _[My First Kaggle Competition: Elo Merchant Category Recommendation](https://www
 </a>
 
 ```
-EDA/Data Treatment
-Feature Engineering (1000+ features contrived from 31e6 transactions)
-Creating a good CV framework. Gradient boosting. SVMs.
-Feature Elimination based on Boruta
-Field-aware Factorization Machines
-Post-processing & Model Stacking
+— EDA/Data Treatment
+— Feature Engineering (1000+ features contrived from 31e6 transactions)
+— Creating a good CV framework. Gradient boosting. SVMs.
+— Feature Elimination based on Boruta
+— Field-aware Factorization Machines
+— Post-processing & Model Stacking
 ```
 
 
@@ -38,12 +38,12 @@ Are those on the job hunt supposed to be demure and welcome asymmetric informati
 
 
 ```
-Web scraping from Indeed, Glassdoor etc.
-Model is trained on Data Science jobs in the United Kingdom specifically
-Location & Title are important features
-Basic NLP techniques — vectorizers
-Model Tuning
-Web app development 
+– Web scraping from Indeed, Glassdoor etc.
+— Trained on UK Data Science jobs
+— Location & Title are important features
+— Basic NLP techniques — vectorizers
+— Model Tuning
+— Web app development 
 ```
 
 
@@ -56,9 +56,9 @@ _[Multiple Linear Regression on Ames housing data](https://github.com/jordiclive
 
   
 ```
-Feature Selection
-Regularization paths
-Residual Analysis and Variance
+— Feature Selection
+— Regularization paths
+— Residual Analysis and Variance
 ```
 
 
