@@ -30,3 +30,14 @@ Creating a good CV framework. Gradient boosting. SVMs
 ```
 Post-processing & Model Stacking
 ```
+
+
+[My First Kaggle Competition: Elo Merchant Category Recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation)_ – Ongoing, ends February 26th 
+: I am currently 14th/3228 on the public LB—some ML techniques were required (I promise!). $50,000 prize money will be afforded to the top 5 entrants on the Private Leaderboard. 
+
+`EDA/Data Treatment`
+`Feature Engineering (1000+ features contrived from 31e6 transactions)`
+`Creating a good CV framework. Gradient boosting. SVMs.`
+[`Feature Elimination based on Boruta`](https://www.kaggle.com/tilii7/boruta-feature-elimination)
+[`Field-aware Factorization Machines`](https://www.csie.ntu.edu.tw/~cjlin/libffm/) 
+`Post-processing & Model Stacking`
