@@ -67,4 +67,4 @@ Take-home exercise for *Revolut*: Data Science & Problem-solving  – *2018*
 
 
 _[The Guardian & The Observer crossword](https://github.com/jordiclive/The_Guardian_crossword)_ – *2016*
-: Simple code to redirect to the current crossword of the day. My father has a ritual of completing this particular crossword at lunch-time every day. This expedites that ritual, by saving one click, as well as avoiding the weekly confusion each Sunday when there is no Guardian quick crossword, but a Speedy Crossword in *The Observer*. Easy to run on Android, just **add-to-home-screen** this [link](https://jsfiddle.net/467Luazq/2).
+: Simple code to redirect to the current crossword of the day. My father has a ritual of completing this particular crossword at lunch-time every day. This expedites that ritual, by saving one click. As well as avoiding the weekly confusion each Sunday when there is no *Guardian* Quick, but a Speedy in *The Observer*. Easy to run on Android, just **add-to-home-screen** this [link](https://jsfiddle.net/467Luazq/2).
