@@ -29,8 +29,9 @@ Field-aware Factorization Machines
 Post-processing & Model Stacking
 ```
 
+<code>[SO](http://s.tk/)</code>
 
-_[Predicting Data Science salaries from the job Description, Flask web application]()
+_[Predicting Data Science salaries from the job Description, Flask web application]
 
 
 This is a web scraping and natural language processing project. 
