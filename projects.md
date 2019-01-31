@@ -37,7 +37,7 @@ Are those on the job hunt supposed to be demure and welcome asymmetric informati
 
 ```
 – Web scraping from Indeed, Glassdoor etc.
-— Trained on UK Data Science jobs
+— Trained on UK Data Science job decriptions
 — Location & Title are important features
 — Basic NLP techniques — vectorizers
 — Model Tuning
