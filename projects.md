@@ -13,14 +13,17 @@ I believe this would be a good step for my development, preparing me for study a
 
 
 # Project List
-
-_[First Kaggle Competition: Elo Merchant Category Recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation)_ – Ongoing,finishes on February 26th 
-: I am currently 14th/3228 on the public LB of my first Kaggle competition—some ML techniques were required (I promise!).
+_[My First Kaggle Competition: Elo Merchant Category Recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation)_ – Ongoing, ends February 26th 
+: I am currently 14th/3228 on the public LB—some ML techniques were required (I promise!). $50,000 prize money will be afforded to the top 5 entrants on the Private Leaderboard. 
 
 <a href="https://www.kaggle.com/c/elo-merchant-category-recommendation/leaderboard">
-  <img src="{{site.baseurl}}/Screen Shot 2019-01-31 at 10.59.30.png" alt="LB" width="800"/> 
+  <img src="{{site.baseurl}}/Screen Shot 2019-01-31 at 10.59.30.png" alt="LB" width="1000"/> 
 </a>
 
-
-
-
+```
+EDA/Data Treatment
+Feature Engineering (1000+ features contrived from 31e6 transactions)
+Erecting CV framework, Gradient boosting, SVM
+Field-aware Factorization Machines
+Post-processing & Stacking
+```
