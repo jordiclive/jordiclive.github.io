@@ -20,14 +20,29 @@ _[My First Kaggle Competition: Elo Merchant Category Recommendation](https://www
   <img src="{{site.baseurl}}/Screen Shot 2019-01-31 at 10.59.30.png" alt="LB" width="1000"/> 
 </a>
 
-```EDA/Data Treatment
+```
+EDA/Data Treatment
 Feature Engineering (1000+ features contrived from 31e6 transactions)
 Creating a good CV framework. Gradient boosting. SVMs.
 Feature Elimination based on Boruta
 Field-aware Factorization Machines
-Post-processing & Model Stacking```
+Post-processing & Model Stacking
+```
 
 
+_[Predicting Data Science salaries from the job Description, Flask web application]()
 
+
+This is a web scraping and natural language processing project. 
+
+Many Data Science job descriptions omit the salary, which to most definitely ranks as a top criteria!
+Are those on the job hunt supposed to be demure and welcome asymmetric information? Inferring the salary as best they can, go through the application process only to find out at the end. This is time-consuming and can be difficult if the specific role is niche or is a new field. A web application link will follow where HR and job searchers in Data Science can copy and paste the description. Perhaps some job description authors will use the model to deliberately bely true salaries down the line…
+
+Web scraping from Indeed, Glassdoor etc.
+Model is trained on Data Science jobs in the United Kingdom specifically
+Location & Title are important features
+Basic NLP techniques — vectorizers
+Model Tuning
+Web app development 
 
 
