@@ -1,5 +1,6 @@
 ---
 title: Books
+margin: 0
 layout: default
 published: true
 ---
