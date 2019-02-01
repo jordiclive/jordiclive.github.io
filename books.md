@@ -44,7 +44,7 @@ When beginning study of neural networks I came across this piece, not a book, ju
 
 
 
-<span style="color:green">A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution</span> – by * Jennifer A. Doudna* and *Samuel H. Sternberg* (*2017*)
+<span style="color:green">A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution</span> – by *Jennifer A. Doudna* and *Samuel H. Sternberg* (**2017**)
 
 <a href="https://www.goodreads.com/book/show/30971755-a-crack-in-creation">
   <img src="https://images-na.ssl-images-amazon.com/images/I/51dXEhFFdnL._SX330_BO1,204,203,200_.jpg" alt="CRISPR" height= "236" width="150" style="float: left;margin:0 10px 10px 0" />
