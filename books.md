@@ -40,3 +40,21 @@ This is essentially a real-life thriller behind computers; Bilton writes a inter
 </a>
 
 When beginning study of neural networks I came across this piece, not a book, just a fantastic article in the Nautilus magazine. About the tragic life of Walter Pitts who along with Warren McCulloch proposed the first mathematical model of a neural network.
+
+
+
+<span style="color:green">A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution</span> – by * Jennifer A. Doudna* and *Samuel H. Sternberg* (*2017*)
+
+
+<a href="https://www.goodreads.com/book/show/30971755-a-crack-in-creation">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/51dXEhFFdnL._SX330_BO1,204,203,200_.jpg" alt=“CRISPR” height= "236" width="150" style="float: left;margin:0 10px 10px 0" />
+</a>
+
+
+
+<span style="color:green">Behave: The Biology of Humans at Our Best and Worst</span> – by *  Robert M. Sapolsky (*2017*)
+https://www.goodreads.com/book/show/31170723-behave
+
+<a href="https://www.goodreads.com/book/show/31170723-behave">
+  <img src="https://images.gr-assets.com/books/1517732866l/31170723.jpg" alt=“behave” height= "236" width="150" style="float: left;margin:0 10px 10px 0" />
+</a>
