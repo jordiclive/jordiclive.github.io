@@ -62,7 +62,7 @@ Textbooks are generally much more formative than novels: you spend a great deal 
 <span style="color:orange">Linear Algebra Done Right</span> – by *Sheldon Axler* (**2010**)
 
 <a href="https://www.goodreads.com/book/show/309768.Linear_Algebra_Done_Right">
-  <img src="https://images.springer.com/sgw/books/medium/9783319110790.jpg" alt="alg" height= "236" width="150" style="float: left;margin:0 10px 10px 0" />
+  <img src="https://images.springer.com/sgw/books/medium/9783319110790.jpg" alt="alg" height= "236" width="150" style="float: right;margin:0 10px 10px 0" />
 </a>
 
 I knew little about CRISPR/Cas9, a very accurate and cheap programmable genome editing tool, and that was mostly from DIY biologists attempting to upgrade themselves. 
@@ -73,9 +73,8 @@ Doudna herself, along with Emmanuelle Charpentier were first to propose the tech
 <span style="color:orange">Analysis I/II</span> – by *Terence Tao* (**2006**)
 
 <a href="https://www.goodreads.com/book/show/502785.Analysis_I">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/31e7RDen2vL._SX355_BO1,204,203,200_.jpg" alt="alg" height= "236" width="150" style="float: left;margin:0 10px 10px 0" />
+  <img src="https://images-na.ssl-images-amazon.com/images/I/31e7RDen2vL._SX355_BO1,204,203,200_.jpg" alt="alg" height= "236" width="150" style="float: right;margin:0 10px 10px 0" />
 </a>
 
 I knew little about CRISPR/Cas9, a very accurate and cheap programmable genome editing tool, and that was mostly from DIY biologists attempting to upgrade themselves. 
 Doudna herself, along with Emmanuelle Charpentier were first to propose the technology; and although, the book intends to temper the hype, with constant reminders of the limitations, I found it did the complete opposite. The mind wanders with all the potential—one almost hopes that there are some technological hurdles before it is used outside specific cases such as with muscular dystrophy or sickle cell anaemia. It is amazing that most of the initial research was borne out of a focus on maximising yoghurt production.
-
