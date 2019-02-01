@@ -20,7 +20,12 @@ The book reveals the fragility of the man, along with the awesome power of the y
 
 Conversely, I did not find him altogether that strange, Henry Cavendish or Nikola Tesla were indeed stranger; however, his actual love letters to his wife, Manci (Margit Wigner), in their courtship are a highlight.
 
+<span style="color:green">American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road</span> – by *Nick Bilton* (**2017**)
 
+<a href="https://www.goodreads.com/book/show/31920777-american-kingpin">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/91L1ebJwsPL.jpg" alt=“ross_ulbricht” height= "236" width="150" style="float: left;margin:0 10px 10px 0" />
+</a>
 
+The Kingpin—Ross Ulbricht—founded _The Silk Road_ in 2011, the first embodiment of a darknet market, as well as conceiving the overarching concept. Just like the prescription drug industry, the concept is a major latent force in society, and will still shape our society for years to come. Although morally unsound, the initial ingenuity is unquestionable, relying on a tripartite of technologies: cryptocurrencies, complete anonymity—onion routing—and the postal network. 
 
-
+This is essentially a real-life thriller behind computers; Bilton writes a interwoven  narrative of the recent events from different POVs. I am surprised there is not more coverage of this book, as one can scarcely believe it is all true—you will have to contain yourself from searching old articles. The amount of digital footprint: 1000s of TorChat messages, the actual image of a staged death and forum-posts which are all time-stamped validates the story and allows Bilton to know precisely what Ross and others are doing by the day. Ulbricht’s [parents](https://www.youtube.com/watch?v=hm2yNZdfMN8) initially could not comprehend their sons involvement.
