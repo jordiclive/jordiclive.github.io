@@ -11,9 +11,11 @@ published: true
 <span style="color:green">The Strangest Man: The Hidden Life of Paul Dirac, Mystic of the Atom</span> – by *Graham Farmelo* (**2009**)
 
 <a href="https://www.goodreads.com/book/show/6629359-the-strangest-man">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/81U74hT9fFL.jpg" alt="Dirac" height= "315" width="200"/>
+  <img src="https://images-na.ssl-images-amazon.com/images/I/81U74hT9fFL.jpg" alt="Dirac" height= "236" width="150" style="float: left;margin:0 10px 10px 0" />
 </a>
 
 Aas
+
+
 
 
