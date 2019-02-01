@@ -39,7 +39,7 @@ This is essentially a real-life thriller behind computers; Bilton writes a inter
   <img src="https://cdn-images-1.medium.com/max/1500/1*WRG_Re8vGVuHDYigtq2IBA.jpeg" alt=“Walter Pitts” width="300"/>
 </a>
 
-When beginning study of neural networks I came across this piece, not a book, just a fantastic article in the Nautilus magazine. About the tragic life of Walter Pitts who along with Warren McCulloch proposed the first mathematical model of a neural network.
+When beginning study of neural networks I came across this piece, not a book, just a fantastic article in the _Nautilus_ magazine. About the tragic life of Walter Pitts who along with Warren McCulloch proposed the first mathematical model of a neural network.
 
 
 
