@@ -23,7 +23,7 @@ Conversely, I did not find him altogether that strange, Henry Cavendish or Nikol
 <span style="color:green">American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road</span> – by *Nick Bilton* (**2017**)
 
 <a href="https://www.goodreads.com/book/show/31920777-american-kingpin">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/91L1ebJwsPL.jpg" alt="Dirac" height= "236" width="150" style="float: left;margin:0 10px 10px 0" />
+  <img src="https://images-na.ssl-images-amazon.com/images/I/91L1ebJwsPL.jpg" alt="Ross" height= "236" width="150" style="float: left;margin:0 10px 10px 0" />
 </a>
 
 The Kingpin—Ross Ulbricht—founded _The Silk Road_ in 2011, the first embodiment of a darknet market, as well as conceiving the overarching concept. Just like the prescription drug industry, the concept is a major latent force in society, and will still shape our society for years to come. Although morally unsound, the initial ingenuity is unquestionable, relying on a tripartite of technologies: cryptocurrencies, complete anonymity—onion routing—and the postal network. 
@@ -32,12 +32,13 @@ This is essentially a real-life thriller behind computers; Bilton writes a inter
 
 
 
-<span style="color:green">The Man Who Tried to Redeem the World with Logic]</span> – by *Amanda Gefter* (**2015**)
-
+<span style="color:green">The Man Who Tried to Redeem the World with Logic</span> – by *Amanda Gefter* (**2015**)
 
 <a href="http://nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic">
-  <img src="https://cdn-images-1.medium.com/max/1500/1*WRG_Re8vGVuHDYigtq2IBA.jpeg" alt=“Walter Pitts” width="300"/>
+  <img src="https://cdn-images-1.medium.com/max/1500/1*WRG_Re8vGVuHDYigtq2IBA.jpeg" alt="Pitts"  width="300"/>
 </a>
+
+
 
 When beginning study of neural networks I came across this piece, not a book, just a fantastic article in the _Nautilus_ magazine. About the tragic life of Walter Pitts who along with Warren McCulloch proposed the first mathematical model of a neural network.
 
@@ -45,16 +46,18 @@ When beginning study of neural networks I came across this piece, not a book, ju
 
 <span style="color:green">A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution</span> – by * Jennifer A. Doudna* and *Samuel H. Sternberg* (*2017*)
 
-
 <a href="https://www.goodreads.com/book/show/30971755-a-crack-in-creation">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/51dXEhFFdnL._SX330_BO1,204,203,200_.jpg" alt=“CRISPR” height= "236" width="150" style="float: left;margin:0 10px 10px 0" />
+  <img src="https://images-na.ssl-images-amazon.com/images/I/51dXEhFFdnL._SX330_BO1,204,203,200_.jpg" alt="CRISPR" height= "236" width="150" style="float: left;margin:0 10px 10px 0" />
 </a>
-
 
 
 <span style="color:green">Behave: The Biology of Humans at Our Best and Worst</span> – by *  Robert M. Sapolsky (*2017*)
-https://www.goodreads.com/book/show/31170723-behave
-
 <a href="https://www.goodreads.com/book/show/31170723-behave">
-  <img src="https://images.gr-assets.com/books/1517732866l/31170723.jpg" alt=“behave” height= "236" width="150" style="float: left;margin:0 10px 10px 0" />
+  <img src="https://images.gr-assets.com/books/1517732866l/31170723.jpg" alt="behave" height= "236" width="150" style="float: left;margin:0 10px 10px 0" />
 </a>
+
+
+# Textbook Recommendations
+
+
+
