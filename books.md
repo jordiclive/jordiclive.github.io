@@ -104,8 +104,8 @@ A Bayesian paradigm does permeate through this book and it is not too mathematic
 
 ### Machine Learning Wish-list
 
-<span style="color:orange">The Elements of Statistical Learning</span> – by *Trevor Hastie, Robert Tibshirani & Jerome Friedman* (**2009**)
+<span style="color:orange">[The Elements of Statistical Learning](https://www.goodreads.com/book/show/148009.The_Elements_of_Statistical_Learning)</span> – by *Trevor Hastie, Robert Tibshirani & Jerome Friedman* (**2009**)
 
-<span style="color:orange">Convex Optimization</span> – by *Stephen Boyd and Lieven Vandenberghe* (**2004**)
+<span style="color:orange">[Convex Optimization](https://www.goodreads.com/book/show/148030.Convex_Optimization)</span> – by *Stephen Boyd and Lieven Vandenberghe* (**2004**)
 
 
