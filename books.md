@@ -96,9 +96,10 @@ Michael Nielsen’s [book](http://neuralnetworksanddeeplearning.com/) is an exce
   <img src="https://images.gr-assets.com/books/1347401011l/55881.jpg" alt="alg" height= "236" width="150" style="float: right;margin:0 10px 10px 0" />
 </a>
 
+I am currently finding this a great resource, having used it concurrently to being introduced to machine learning topics on my course. I often a better resource when I come back to the chapter a second time. I did find it brilliant for learning about Markov chain Monte Carlo sampling methods, and in getting to grips with support vector machines.
 
-I am currently finding this a great resource whilst being introduced to various machine learning topics, and often a better resource when I come back to the chapter a second time. A Bayesian paradigm does permeate through this book; it is not too mathematically heavy and it is not as clear as the textbooks above. I did find it great for learning about Markov chain Monte Carlo sampling methods, and in getting to grips with support vector machines. 
-It is not as clear as the textbooks above but is supposedly a machine learning bible and course reader for many machine learning graduate courses. As with some other books, full solutions are not provided, but you can find unofficial solutions to most problems.
+A Bayesian paradigm does permeate through this book and it is not too mathematically heavy. It is not as clear as the textbooks mentioned above but it is supposedly a machine learning bible and the course reader for many machine learning graduate courses. As with some other books, full solutions are not provided, but you can find unofficial solutions to most problems.
+
 
 
 ### Machine Learning Wish-list
