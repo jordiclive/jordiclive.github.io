@@ -67,9 +67,10 @@ Textbooks are generally much more formative than novels: you spend a great deal 
   <img src="https://images.springer.com/sgw/books/medium/9783319110790.jpg" alt="alg" height= "236" width="150" style="float: right;margin:0 10px 10px 0" />
 </a>
 
-My previous introduction to linear algebra had left me uninspired; subsequently, after my first University year, I soon realised that to study the cool stuff I would need to become properly acquainted with mathematics. This book set me on my path: it was the first time I spent a long time with a textbook, and where I started to formulate mathematical arguments properly.
+After my first University year, my introduction to linear algebra had left me uninspired. Accordingly, I soon realised that to study the cool stuff I would need to become properly acquainted with mathematics. And this book set me on my path: it was the first time I spent a long time with a textbook, and the first time I formulated mathematical arguments properly.
 
-Although, looking back, there is not much emphasis on techniques that are useful in machine learning (SVD, decompositions, pseudoinverses etc.), the approach and some of the elegant proofs helped me greatly in my later years. I think this is a must-read as linear algebra is too important to too many subjects, so a sound conceptual framework is a must. A lot of material is omitted, so one will need a supplementary resource.
+The approach and some of the elegant proofs helped me greatly in my later years; although,
+Looking back, there is not much emphasis on techniques that are germane to machine learning (SVD, decompositions, pseudoinverses etc.). I think this is a must-read and as linear algebra is too important to too many subjects, a sound conceptual framework is a must. A lot of material is omitted, so one will need an additional resource.
 
 
 
