@@ -67,8 +67,9 @@ Textbooks are generally much more formative than novels: you spend a great deal 
   <img src="https://images.springer.com/sgw/books/medium/9783319110790.jpg" alt="alg" height= "236" width="150" style="float: right;margin:0 10px 10px 0" />
 </a>
 
-I knew little about CRISPR/Cas9, a very accurate and cheap programmable genome editing tool, and that was mostly from DIY biologists attempting to upgrade themselves. 
-Doudna herself, along with Emmanuelle Charpentier were first to propose the technology; and although, the book intends to temper the hype, with constant reminders of the limitations, I found it did the complete opposite. The mind wanders with all the potential—one almost hopes that there are some technological hurdles before it is used outside specific cases such as with muscular dystrophy or sickle cell anaemia. It is amazing that most of the initial research was borne out of a focus on maximising yoghurt production.
+My previous introduction to linear algebra had left me uninspired; subsequently, after my first University year, I soon realised that to study the cool stuff I would need to become properly acquainted with mathematics. This book set me on my path: it was the first time I spent a long time with a textbook, and where I started to formulate mathematical arguments properly.
+
+Although, looking back, there is not much emphasis on techniques that are useful in machine learning (SVD, decompositions, pseudoinverses etc.), the approach and some of the elegant proofs helped me greatly in my later years. I think this is a must-read as linear algebra is too important to too many subjects, so a sound conceptual framework is a must. A lot of material is omitted, so one will need a supplementary resource.
 
 
 
@@ -78,5 +79,33 @@ Doudna herself, along with Emmanuelle Charpentier were first to propose the tech
   <img src="https://images-na.ssl-images-amazon.com/images/I/31e7RDen2vL._SX355_BO1,204,203,200_.jpg" alt="alg" height= "236" width="150" style="float: right;margin:0 10px 10px 0" />
 </a>
 
-I knew little about CRISPR/Cas9, a very accurate and cheap programmable genome editing tool, and that was mostly from DIY biologists attempting to upgrade themselves. 
-Doudna herself, along with Emmanuelle Charpentier were first to propose the technology; and although, the book intends to temper the hype, with constant reminders of the limitations, I found it did the complete opposite. The mind wanders with all the potential—one almost hopes that there are some technological hurdles before it is used outside specific cases such as with muscular dystrophy or sickle cell anaemia. It is amazing that most of the initial research was borne out of a focus on maximising yoghurt production.
+Real analysis is another foundation and it is useful to study it diligently outside of lectures as well. A lot of people profess the merits of '_Baby Rudin_'—Walter Rudin's _Principles of Mathematical Analysis_, for real analysis—and they are not wrong. I think the exercises in Baby Rudin are demanding and elucidating, and are a good complement to studying the volumes by Terry (Terrance) Tao.
+
+
+Terry Tao's volumes build slowly and help you get an idea of what is going on, so are a good bet before delving into Rudin. Tao helped me appreciate why real analysis is necessary; Tao also has an immense blog, where he doesn't just post about theorems.
+
+## Machine Learning Resources
+
+<span style="color:orange"> Neural Networks and Deep Learning online book[</span> – by *Michael Nielsen* (**2015**)
+
+Michael Nielsen’s [book](http://neuralnetworksanddeeplearning.com/) is an excellent entry-level resource for deep learning: it does not go into mathematical detail but is great at explaining the basis for the recent advancements in deep learning and incorporates interactive examples.
+
+
+<span style="color:orange">Pattern Recognition and Machine Learning</span> – by *Christopher Bishop* (**2006**)
+
+<a href="https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning">
+  <img src="https://images.gr-assets.com/books/1347401011l/55881.jpg" alt="alg" height= "236" width="150" style="float: right;margin:0 10px 10px 0" />
+</a>
+
+
+I am currently finding this a great resource whilst being introduced to various machine learning topics, and often a better resource when I come back to the chapter a second time. A Bayesian paradigm does permeate through this book; it is not too mathematically heavy and it is not as clear as the textbooks above. I did find it great for learning about Markov chain Monte Carlo sampling methods, and in getting to grips with support vector machines. 
+It is not as clear as the textbooks above but is supposedly a machine learning bible and course reader for many machine learning graduate courses. As with some other books, full solutions are not provided, but you can find unofficial solutions to most problems.
+
+
+### Machine Learning Wish-list
+
+<span style="color:orange">The Elements of Statistical Learning</span> – by *Trevor Hastie, Robert Tibshirani & Jerome Friedman* (**2009**)
+
+<span style="color:orange">Convex Optimization</span> – by *Stephen Boyd and Lieven Vandenberghe* (**2004**)
+
+
