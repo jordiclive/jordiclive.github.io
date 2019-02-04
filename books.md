@@ -67,10 +67,10 @@ _**Textbooks are generally much more formative than novels: you spend a great de
   <img src="https://images.springer.com/sgw/books/medium/9783319110790.jpg" alt="alg" height= "236" width="150" style="float: right;margin:0 10px 10px 0" />
 </a>
 
-After my first University year, my introduction to linear algebra had left me uninspired. Accordingly, I soon realised that to study the cool stuff I would need to become properly acquainted with mathematics. And this book set me on my path: it was the first time I spent a long time with a textbook, and the first time I formulated mathematical arguments properly.
+After my first University year, my introduction to linear algebra had left me uninspired. I soon realised that to study the *cool stuff* I would need to become properly acquainted with mathematics. And this book set me on my path, it was the first time I spent a long time with a textbook, and the first time I formulated mathematical arguments properly.
 
-The approach and some of the elegant proofs helped me greatly in my later years; although,
-Looking back, there is not much emphasis on techniques that are germane to machine learning (SVD, decompositions, pseudoinverses etc.). I think this is a must-read and as linear algebra is too important to too many subjects, a sound conceptual framework is a must. A lot of material is omitted, so one will need an additional resource.
+The general approach and some of the elegant proofs are fantastic; although,
+Looking back, there is not much emphasis on techniques that are germane to machine learning (SVD, decompositions, pseudoinverses etc.). I still think this is a must-read and as linear algebra is too important to too many subjects, a sound conceptual framework is a must. Some essential material is omitted, so one will need a supplementary resource.
 
 
 
@@ -80,15 +80,15 @@ Looking back, there is not much emphasis on techniques that are germane to machi
   <img src="https://images-na.ssl-images-amazon.com/images/I/31e7RDen2vL._SX355_BO1,204,203,200_.jpg" alt="alg" height= "236" width="150" style="float: right;margin:0 10px 10px 0" />
 </a>
 
-Another foundational bedrock: it is useful to study real analysis diligently outside of lectures. A lot of people profess the merits of _Baby Rudin_—Walter Rudin's _Principles of Mathematical Analysis_, for real analysis—and they are not wrong. I think the exercises in _Baby Rudin_ are demanding and elucidating, and are a good complement to studying the volumes by Terry (Terrance) Tao.
+Real analysis is another foundational bedrock, so it is useful to study it diligently outside of lectures. Many profess the merits of _Baby Rudin_—Walter Rudin's _Principles of Mathematical Analysis_, for real analysis—and they are not wrong. I think the exercises in _Baby Rudin_ are demanding and elucidating, and are a good complement to studying the volumes by Terry (Terrance) Tao.
 
-Terry Tao's volumes build slowly and help you get an idea of what is going on, so are a good bet before delving into Rudin. Tao helped me appreciate why real analysis is necessary. Tao also has an immense [blog](https://terrytao.wordpress.com/), where he doesn't just post about theorems.
+Terry Tao's volumes build slowly and help you get an idea of what is going on, so are a good bet before delving into Rudin, and help you appreciate why real analysis is necessary. Tao also has an immense [blog](https://terrytao.wordpress.com/), where it's not only talk on theorems.
 
 ## Machine Learning Resources
 
 <span style="color:orange"> Neural Networks and Deep Learning online book</span> – by *Michael Nielsen* (**2015**)
 
-Michael Nielsen’s [book](http://neuralnetworksanddeeplearning.com/) is an excellent entry-level resource for deep learning including interactive examples: it does not go into mathematical detail but is great at explaining the basis for the recent advancements in deep learning.
+Michael Nielsen’s [book](http://neuralnetworksanddeeplearning.com/) is an excellent entry-level resource for deep learning including interactive examples: it does not go into mathematical detail but it is great at explaining the basis for the recent advancements in deep learning.
 
 <span style="color:orange">Pattern Recognition and Machine Learning</span> – by *Christopher Bishop* (**2006**)
 
@@ -96,9 +96,9 @@ Michael Nielsen’s [book](http://neuralnetworksanddeeplearning.com/) is an exce
   <img src="https://images.gr-assets.com/books/1347401011l/55881.jpg" alt="alg" height= "236" width="150" style="float: right;margin:0 10px 10px 0" />
 </a>
 
-I am currently finding this a great resource, having used it concurrently to being introduced to machine learning topics on my course. Often a better resource when I come back to the chapter a second time. I did find it brilliant for learning about Markov chain Monte Carlo sampling methods, and in getting to grips with support vector machines.
+I am currently finding this a great resource, having used it concurrently to being introduced to machine learning topics on my course. Often I find it a better resource when I come back to a chapter for a second time. I did find it brilliant for learning about Markov chain Monte Carlo sampling methods, and in getting to grips with support vector machines.
 
-A Bayesian paradigm does permeate through this book and it is not too mathematically heavy. It is not as clear as the textbooks mentioned above but it is supposedly a machine learning bible and the course reader for many machine learning graduate courses. As with some other books, full solutions are not provided, but you can find unofficial solutions to most problems.
+A Bayesian paradigm does permeate through this book. It is not too mathematically heavy and it is not as clear as the textbooks mentioned above but it is the course reader for many graduate courses and supposedly a machine learning *bible*. As with some other readers, full solutions are not provided, but you can find *unofficial solutions* to most problems.
 
 
 
