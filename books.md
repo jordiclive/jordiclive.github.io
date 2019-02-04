@@ -10,19 +10,6 @@ published: true
 ### What I liked in 2018
 
 
-
-<span style="color:green">The Strangest Man: The Hidden Life of Paul Dirac, Mystic of the Atom</span> – by *Graham Farmelo* (**2009**)
-
-<a href="https://www.goodreads.com/book/show/6629359-the-strangest-man">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/81U74hT9fFL.jpg" alt="Dirac" height= "236" width="150" style="float: left;margin:0 10px 10px 0" />
-</a>
-
-A great, complementary talk by Farmelo can be found [here](https://www.youtube.com/watch?v=YfYon2WdR40)
-
-I found this book to the most remarkable page-turner. Farmelo is obsessed with his subject but he is also an assiduous, observant and fair biographer. The book reveals Paul Dirac’s fragility, along with the awesome intellectual power as a young man: *The Principles of Quantum Mechanics*, is still an acclaimed text today, due to Dirac’s inspired clarity. Dirac’s humble origins were completely atypical, especially compared to the quantum physicists avant-garde; this book describes how this quiet man ended up living the most incredible life, becoming often involved in the defining historical events of the period. Dirac set off the chain-reaction of physicists predicting particles through thought alone.
-
-Conversely, I did not find Dirac altogether that strange a character, Henry Cavendish or Nikola Tesla were stranger. However, Dirac’s unconventional love letters to his wife, Manci (Margit Wigner), during their courtship are a highlight of the book.
-
 <span style="color:green">American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road</span> – by *Nick Bilton* (**2017**)
 
 <a href="https://www.goodreads.com/book/show/31920777-american-kingpin">
@@ -44,6 +31,19 @@ The amount of digital footprint: 1000s of TorChat messages, the actual image of 
 
 
 When beginning study of neural networks I came across this piece, not a book, just a fantastic article in the _Nautilus_ magazine. About the tragic life of Walter Pitts who along with Warren McCulloch proposed the first mathematical model of a neural network.
+
+
+<span style="color:green">The Strangest Man: The Hidden Life of Paul Dirac, Mystic of the Atom</span> – by *Graham Farmelo* (**2009**)
+
+<a href="https://www.goodreads.com/book/show/6629359-the-strangest-man">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/81U74hT9fFL.jpg" alt="Dirac" height= "236" width="150" style="float: left;margin:0 10px 10px 0" />
+</a>
+
+A great, complementary talk by Farmelo can be found [here](https://www.youtube.com/watch?v=YfYon2WdR40)
+
+I found this book to the most remarkable page-turner. Farmelo is obsessed with his subject but he is also an assiduous, observant and fair biographer. The book reveals Paul Dirac’s fragility, along with the awesome intellectual power as a young man: *The Principles of Quantum Mechanics*, is still an acclaimed text today, due to Dirac’s inspired clarity. Dirac’s humble origins were completely atypical, especially compared to the quantum physicists avant-garde; this book describes how this quiet man ended up living the most incredible life, becoming often involved in the defining historical events of the period. Dirac set off the chain-reaction of physicists predicting particles through thought alone.
+
+Conversely, I did not find Dirac altogether that strange a character, Henry Cavendish or Nikola Tesla were stranger. However, Dirac’s unconventional love letters to his wife, Manci (Margit Wigner), during their courtship are a highlight of the book.
 
 
 <span style="color:green">A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution</span> – by *Jennifer A. Doudna* and *Samuel H. Sternberg* (**2017**)
