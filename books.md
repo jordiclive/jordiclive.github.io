@@ -59,7 +59,7 @@ Doudna herself, along with Emmanuelle Charpentier were first to propose the tech
 
 # Textbook Recommendations
 
-_**Textbooks are generally much more formative than novels: you spend a great deal more time with them, in an involved setting and often come back.**_
+_**I find that Textbooks are generally much more formative than novels: you spend a great deal more time with them, in an involved setting and often come back.**_
 
 <span style="color:orange">Linear Algebra Done Right</span> – by *Sheldon Axler* (**2010**)
 
