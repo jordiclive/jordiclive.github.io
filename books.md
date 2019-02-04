@@ -19,7 +19,7 @@ published: true
 
 A great, complementary talk by Farmelo can be found [here](https://www.youtube.com/watch?v=YfYon2WdR40)
 
-I found this book to the most remarkable page-turner. Farmelo is obsessed with his subject but he is an assiduous, observant and fair biographer. The book reveals Paul Dirac’s fragility, along with his awesome intellectual power as a young man: The Principles of Quantum Mechanics, is still an acclaimed text today, due to Dirac’s inspired clarity. Dirac’s humble origins were completely atypical, especially compared to the quantum physicists avant-garde; this book describes how this quiet man ended up living the most incredible life, becoming often involved in the historical events defining that period. Dirac set off the chain-reaction of physicists predicting particles through thought alone.
+I found this book to the most remarkable page-turner. Farmelo is obsessed with his subject but he is an assiduous, observant and fair biographer. The book reveals Paul Dirac’s fragility, along with his awesome intellectual power as a young man: *The Principles of Quantum Mechanics*, is still an acclaimed text today, due to Dirac’s inspired clarity. Dirac’s humble origins were completely atypical, especially compared to the quantum physicists avant-garde; this book describes how this quiet man ended up living the most incredible life, becoming often involved in the historical events defining that period. Dirac set off the chain-reaction of physicists predicting particles through thought alone.
 
 Conversely, I did not find Dirac altogether that strange a character, Henry Cavendish or Nikola Tesla were stranger however, Dirac’s love letters to his wife, Manci (Margit Wigner), during their courtship are a highlight of the book.
 
