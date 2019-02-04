@@ -82,7 +82,7 @@ Looking back, there is not much emphasis on techniques that are germane to machi
 
 Real analysis is another foundational bedrock, so it is useful to study it diligently outside of lectures. Many profess the merits of _Baby Rudin_—Walter Rudin's _Principles of Mathematical Analysis_, for real analysis—and they are not wrong. I think the exercises in _Baby Rudin_ are demanding and elucidating, and are a good complement to studying the volumes by Terry (Terrance) Tao.
 
-Terry Tao's volumes build slowly and help you get an idea of what is going on, so are a good bet before delving into Rudin, and help you appreciate why real analysis is necessary. Tao also has an immense [blog](https://terrytao.wordpress.com/), where it's not only talk on theorems.
+Terry Tao's volumes build slowly and help you get an idea of what is going on, so are a good bet before delving into Rudin, and help you appreciate why real analysis is necessary. Tao, one of the most famous and prolific mathematicians of today, also has an immense [blog](https://terrytao.wordpress.com/), where it's not only talk on theorems.
 
 ## Machine Learning Resources
 
