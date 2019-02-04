@@ -41,7 +41,7 @@ When beginning study of neural networks I came across this piece, not a book, ju
 
 A great, complementary talk by Farmelo can be found [here](https://www.youtube.com/watch?v=YfYon2WdR40)
 
-I found this book to the most remarkable page-turner. Farmelo is obsessed with his subject but he is also an assiduous, observant and fair biographer. The book reveals Paul Dirac’s fragility, along with the awesome intellectual power as a young man: *The Principles of Quantum Mechanics*, is still an acclaimed text today, due to Dirac’s inspired clarity. Dirac’s humble origins were completely atypical, especially compared to the quantum physicists avant-garde; this book describes how this quiet man ended up living the most incredible life, becoming often involved in the defining historical events of the period. Dirac set off the chain-reaction of physicists predicting particles through thought alone.
+I found this book to be the most remarkable page-turner. Farmelo is obsessed with his subject but he is also an assiduous, observant and fair biographer. The book reveals Paul Dirac’s fragility, along with the awesome intellectual power as a young man: *The Principles of Quantum Mechanics*, is still an acclaimed text today, due to Dirac’s inspired clarity. Dirac’s humble origins were completely atypical, especially compared to the avant-garde quantum physicists; this book describes how this quiet man ended up living the most incredible life, becoming often involved in the defining historical events of the period. Dirac set off the chain-reaction of physicists predicting particles through thought alone.
 
 Conversely, I did not find Dirac altogether that strange a character, Henry Cavendish or Nikola Tesla were stranger. However, Dirac’s unconventional love letters to his wife, Manci (Margit Wigner), during their courtship are a highlight of the book.
 
@@ -70,7 +70,7 @@ _**I find that Textbooks are generally much more formative than novels: you spen
 After my first University year, my introduction to linear algebra had left me uninspired. I soon realised that to study the *cool stuff* I would need to become properly acquainted with mathematics. And this book set me on my path, it was the first time I spent a long time with a textbook, and the first time I formulated mathematical arguments properly.
 
 The general approach and some of the elegant proofs are fantastic; although,
-Looking back, there is not much emphasis on techniques that are germane to machine learning (SVD, decompositions, pseudoinverses etc.). I still think this is a must-read and as linear algebra is too important to too many subjects, a sound conceptual framework is a must. Some essential material is omitted, so one will need a supplementary resource.
+looking back, there is not much emphasis on techniques that are germane to machine learning (SVD, decompositions, pseudoinverses etc.). I still think this is a must-read and as linear algebra is too important for so many subjects, a sound conceptual framework is a must. Some essential material is omitted, so one will need a supplementary resource.
 
 
 
@@ -96,7 +96,7 @@ Michael Nielsen’s [book](http://neuralnetworksanddeeplearning.com/) is an exce
   <img src="https://images.gr-assets.com/books/1347401011l/55881.jpg" alt="alg" height= "236" width="150" style="float: right;margin:0 10px 10px 0" />
 </a>
 
-I am currently finding this a great resource, having used it concurrently to being introduced to machine learning topics on my course. Often I find it a better resource when I come back to a chapter for a second time. I did find it brilliant for learning about Markov chain Monte Carlo sampling methods, and in getting to grips with support vector machines.
+I am currently finding this a great resource, having used it concurrently to being introduced to machine learning topics on my course. Often I find it a better resource when I come back to a chapter for a second time. I did find it brilliant for learning about Markov chain Monte Carlo sampling methods, and for getting to grips with support vector machines.
 
 A Bayesian paradigm does permeate through this book. It is not too mathematically heavy and it is not as clear as the textbooks mentioned above but it is the course reader for many graduate courses and supposedly a machine learning *bible*. As with some other readers, full solutions are not provided, but you can find *unofficial solutions* to most problems.
 
@@ -107,5 +107,3 @@ A Bayesian paradigm does permeate through this book. It is not too mathematicall
 <span style="color:orange">[The Elements of Statistical Learning](https://www.goodreads.com/book/show/148009.The_Elements_of_Statistical_Learning)</span> – by *Trevor Hastie, Robert Tibshirani & Jerome Friedman* (**2009**)
 
 <span style="color:orange">[Convex Optimization](https://www.goodreads.com/book/show/148030.Convex_Optimization)</span> – by *Stephen Boyd and Lieven Vandenberghe* (**2004**)
-
-
