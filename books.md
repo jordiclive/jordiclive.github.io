@@ -19,9 +19,9 @@ published: true
 
 A great, complementary talk by Farmelo can be found [here](https://www.youtube.com/watch?v=YfYon2WdR40)
 
-I found this book to the most remarkable page-turner. Farmelo is obsessed with his subject but he is an assiduous, observant and fair biographer. The book reveals Paul Dirac’s fragility, along with his awesome intellectual power as a young man: *The Principles of Quantum Mechanics*, is still an acclaimed text today, due to Dirac’s inspired clarity. Dirac’s humble origins were completely atypical, especially compared to the quantum physicists avant-garde; this book describes how this quiet man ended up living the most incredible life, becoming often involved in the historical events defining that period. Dirac set off the chain-reaction of physicists predicting particles through thought alone.
+I found this book to the most remarkable page-turner. Farmelo is obsessed with his subject but he is also an assiduous, observant and fair biographer. The book reveals Paul Dirac’s fragility, along with the awesome intellectual power as a young man: *The Principles of Quantum Mechanics*, is still an acclaimed text today, due to Dirac’s inspired clarity. Dirac’s humble origins were completely atypical, especially compared to the quantum physicists avant-garde; this book describes how this quiet man ended up living the most incredible life, becoming often involved in the defining historical events of the period. Dirac set off the chain-reaction of physicists predicting particles through thought alone.
 
-Conversely, I did not find Dirac altogether that strange a character, Henry Cavendish or Nikola Tesla were stranger however, Dirac’s love letters to his wife, Manci (Margit Wigner), during their courtship are a highlight of the book.
+Conversely, I did not find Dirac altogether that strange a character, Henry Cavendish or Nikola Tesla were stranger. However, Dirac’s unconventional love letters to his wife, Manci (Margit Wigner), during their courtship are a highlight of the book.
 
 <span style="color:green">American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road</span> – by *Nick Bilton* (**2017**)
 
@@ -29,7 +29,7 @@ Conversely, I did not find Dirac altogether that strange a character, Henry Cave
   <img src="https://images-na.ssl-images-amazon.com/images/I/91L1ebJwsPL.jpg" alt="Ross" height= "236" width="150" style="float: left;margin:0 10px 10px 0" />
 </a>
 
-The Kingpin—Ross Ulbricht—founded _The Silk Road_ in 2011, the first embodiment of a darknet market, as well as conceiving the overarching concept. Just like the prescription drug industry, the concept is a major latent force in society, and will still shape our society for years to come. Although morally unsound, the initial ingenuity behind the creation of the Silk Road is unquestionable, relying on a tripartite of technologies: cryptocurrencies, complete anonymity—onion routing—and the postal network.
+The Kingpin—Ross Ulbricht—founded _The Silk Road_ in 2011, the first embodiment of a darknet market, as well as conceiving the overarching concept. Just like the prescription drug industry, the concept is a major latent force in society, and will still shape our society for years to come. Although morally unsound, the initial ingenuity behind the creation of the Silk Road is unquestionable, relying on a tripartite of technologies: cryptocurrencies, complete anonymity through onion routing and the postal network.
 
 This is essentially a real-life thriller behind computers; Bilton writes an interwoven narrative of the recent events from different POVs. I am surprised there has not been more coverage of this book, as one can scarcely believe it is all true—you will have to restrain yourself from searching previous time-dated articles.
 
@@ -59,7 +59,7 @@ Doudna herself, along with Emmanuelle Charpentier were first to propose the tech
 
 # Textbook Recommendations
 
-**Textbooks are generally much more formative than novels: you spend a great deal more time with them, in an involved setting and often come back.**
+_**Textbooks are generally much more formative than novels: you spend a great deal more time with them, in an involved setting and often come back.**_
 
 <span style="color:orange">Linear Algebra Done Right</span> – by *Sheldon Axler* (**2010**)
 
