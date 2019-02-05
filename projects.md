@@ -63,8 +63,8 @@ _[Multiple Linear Regression on the Ames housing data](https://github.com/jordic
 ## Small Projects
 
 
-_[Take-home exercise for *Revolut*: Data Science & Problem-solving ](https://github.com/jordiclive/Revolut_KYC_Exercise/blob/master/KYC_challenge.pdf)_ – *2018*
-:Mostly work with *pandas* and *matplotlib* to investigate changes in [*Revolut’s*](https://en.wikipedia.org/wiki/Revolut) Know your customer (KYC) pass rates for onboarding. In additon, I produced a [written report](https://github.com/jordiclive/Revolut_KYC_Exercise/blob/master/JClive_Report_Ops_Challenge.pdf) interpreting the analysis.
+_[Take-home exercise for *Revolut*: Data Science & Problem-solving](https://github.com/jordiclive/Revolut_KYC_Exercise/blob/master/KYC_challenge.pdf)_ – *2018*
+: Mostly work with *pandas* and *matplotlib* to investigate changes in [*Revolut’s*](https://en.wikipedia.org/wiki/Revolut) Know your customer (KYC) pass rates for onboarding. In additon, I produced a [written report](https://github.com/jordiclive/Revolut_KYC_Exercise/blob/master/JClive_Report_Ops_Challenge.pdf) interpreting the analysis.
 
 
 _[The Guardian & The Observer crossword](https://github.com/jordiclive/The_Guardian_crossword)_ – *2016*
