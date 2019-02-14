@@ -1,7 +1,7 @@
 ---
 published: true
 title: Write-ups Coming
-date: {}
+date: 2019-01-30
 layout: post
 ---
 
