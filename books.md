@@ -39,7 +39,7 @@ When beginning study of neural networks I came across this piece, not a book, ju
   <img src="https://images-na.ssl-images-amazon.com/images/I/81U74hT9fFL.jpg" alt="Dirac" height= "236" width="150" style="float: left;margin:0 10px 10px 0" />
 </a>
 
-A great, complementary talk by Farmelo can be found [here](https://www.youtube.com/watch?v=YfYon2WdR40)
+A great, complementary talk by Farmelo can be found [here](https://www.youtube.com/watch?v=YfYon2WdR40).
 
 I found this book to be the most remarkable page-turner. Farmelo is obsessed with his subject but he is also an assiduous, observant and fair biographer. The book reveals Paul Dirac’s fragility, along with the awesome intellectual power as a young man: *The Principles of Quantum Mechanics*, is still an acclaimed text today, due to Dirac’s inspired clarity. Dirac’s humble origins were completely atypical, especially compared to the avant-garde quantum physicists; this book describes how this quiet man ended up living the most incredible life, becoming often involved in the defining historical events of the period. Dirac set off the chain-reaction of physicists predicting particles through thought alone.
 
