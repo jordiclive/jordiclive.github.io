@@ -7,10 +7,6 @@ published: true
 
 Write-ups will appear.
 
-I am hoping, starting in [March](https://generalassemb.ly/education/data-science-immersive) 2019,  to be made  teaching assistant for the same data science course I am currently on which comes to an end very soon...I would lead full days, lecturing ML topics followed by guiding labs (usually undertaken in Jupyter Notebooks), as well as provide assistance to students on a day-to-day basis. 
-
-I believe this would be a good step for my development, preparing me for study and research in September 2019.
-
 
 # Project List
 _[My First Kaggle Competition: Elo Merchant Category Recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation)_ – *Ongoing, ends February 26th*
