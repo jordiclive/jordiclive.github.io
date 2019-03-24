@@ -3,15 +3,17 @@ title: Projects
 layout: default
 published: true
 ---
-### N.B.
-
-Write-ups will appear.
 
 
 # Project List
-_[My First Kaggle Competition: Elo Merchant Category Recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation)_ – *Ongoing, ends February 26th*
-: I am currently 14th/3228 on the public LB—some ML techniques were required (I promise!). $50,000 prize money will be afforded to the top 5 entrants on the Private Leaderboard. 
+_[My First Kaggle Competition: Elo Merchant Category Recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation)_ – 
+: For my Capstone Project I decided to take part in a Kaggle competition: a competition hosted by Elo (a Brazilian payments company) to predict customer loyalty scores for each credit card user. The crux of the regression problem was that 1% of the scores were extreme outliers with the same value, swaying the RMSE metric. Due to the score being ill-defined and Elo’s agenda not being clear, the competition was seen as very difficult.
 
+My approach was to carefully deliberate in pre-processing, and to try and reverse engineer the shape-parameters of the purchase amounts and the target which had been obfuscated. I spent the majority of my time feature engineering, contriving 1000+ features from 31 million transactions. I tried to read all the threads and papers on the subject to understand models used in loyalty scores such as Pareto/NBD.
+
+It was important to create a good CV framework and trust in it rather than the public leaderboard score. During the project I used an optimization procedure to find the shape parameters of the target and purchase amount. I used feature elimination based on Boruta and field aware factorization machines. My model pipeline comprised three models, using both an LGboost regressor and classifier.
+
+I found the competition a rewarding experience, and being part of a community who share information raised the level hugely. 
 <a href="https://www.kaggle.com/c/elo-merchant-category-recommendation/leaderboard">
   <img src="{{site.baseurl}}/Screen Shot 2019-01-31 at 10.59.30.png" alt="LB" width="1000"/> 
 </a>
