@@ -5,7 +5,7 @@ published: true
 ---
 ### N.B.
 
-I have recently finished a 500 hour **data science with machine learning** Immersive course. See [projects](https://jordiclive.github.io/projects.html) for a short précis of each completed project. 
+I have recently finished a 420 hour **data science with machine learning** Immersive course. See [projects](https://jordiclive.github.io/projects.html) for a short précis of each completed project. 
 
 I have been incredibly inspired by data science, and have consistently built my knowledge of various tools, and gained practical know-how to solve an array of problems outside the course. I also believe it is important to appreciate the underlying statistical framework of the model. 
 
