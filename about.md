@@ -7,7 +7,7 @@ published: true
 
 I have recently finished a 500 hour **data science with machine learning** Immersive course. See [projects](https://jordiclive.github.io/projects.html) for a short précis of each completed project. 
 
-I have been incredibly inspired by data science, and have been building my knowledge of various tools, and gaining practical know-how to solve an array of problems outside the course. I believe it is important to appreciate the underlying statistical framework of the model. 
+I have been incredibly inspired by data science, and have consistently built my knowledge of various tools, and gained practical know-how to solve an array of problems outside the course. I also believe it is important to appreciate the underlying statistical framework of the model. 
 
 I am currently looking for a junior data scientist position, whilst carrying out some freelance work. Please get in touch regarding any opportunities.
 - - -
