@@ -5,7 +5,8 @@ published: true
 ---
 ### N.B.
 
-I have recently finished my **data science with machine learning** course. See [projects](https://jordiclive.github.io/projects.html) for a short précis of each completed project. I am very motivated, and have been building my knowledge of various tools and underlying statistics. I am currently looking for a junior data scientist position, whilst carrying out some freelance work. Please get in touch regarding any opportunities.
+I have recently finished my **data science with machine learning** course. See [projects](https://jordiclive.github.io/projects.html) for a short précis of each completed project. 
+I am very motivated, and have been building my knowledge of various tools and gaining practical experience of implementing modles whilst studying the underlying statistics. I am currently looking for a junior data scientist position, whilst carrying out some freelance work. Please get in touch regarding any opportunities.
 - - -
 
 # About 
